@@ -1,0 +1,1 @@
+.strip('\n\n\t\n\t\n\t\t\n\t\t\t\t\t\t'
